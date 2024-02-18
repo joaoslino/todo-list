@@ -1,36 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Buy milk with some idk"
-    },
-    {
-      "id": "2",
-      "text": "help a friend find a girl"
-    },
-    {
-      "id": "3",
-      "text": "teste 123"
-    },
-    {
-      "id": "3",
-      "text": "olas"
-    },
-    {
-      "id": "3",
-      "text": "teset"
-    },
-    {
-      "id": "3",
-      "text": "teste"
-    },
-    {
-      "id": "7803465b-b04b-474d-9dd2-337c135f24fd",
+      "id": "c0862ce4-06a8-4692-9082-ad572645169a",
       "text": "learn spanish"
     },
     {
-      "id": "fa0d2200-35ab-4486-a617-e7d61c02b705",
-      "text": "asd"
+      "id": "9b13dd0a-32ae-439a-aeb2-8eb13599cb98",
+      "text": "go to the gym"
+    },
+    {
+      "id": "52d70f11-6b70-402b-8527-857e3792d939",
+      "text": "make an orange cake"
     }
   ]
 }
